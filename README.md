@@ -1,2 +1,2 @@
 # random-circles
-make random circles lol. Open website
+make random circles lol. Open index.html file bro
